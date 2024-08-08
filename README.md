@@ -1720,7 +1720,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/deepakmajhi22">
                     <img src="https://avatars.githubusercontent.com/u/147671694?v=4" width="100px;" alt="Kaone Keboetseng"/>
                     <br />
-                    <sub><b>Kaone Keboetseng</b></sub>
+                    <sub><b>Deepak</b></sub>
                 </a>
             </td>
         </tr>
